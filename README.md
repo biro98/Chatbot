@@ -65,3 +65,5 @@ Interactive Function: The interact_with_model function allows for interactive us
 User Interaction Loop: The script includes a loop that prompts the user to input questions and then displays the model-generated answers. The loop continues until the user types 'exit'.
 
 Example Usage: There's an ask function provided as an example of how to use the evaluate function, demonstrating the script's application in generating answers to questions.
+
+chatboot_full_code_trial.ipynb was a trial to get the function to work properly before finalizing the project.
