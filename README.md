@@ -35,6 +35,8 @@ Decoder: The Decoder class uses the context state provided by the encoder and ap
 
 Attention in Decoder: The decoder's forward pass computes the attention weights using the current hidden state and the encoder output. It then forms a context vector as a weighted sum of the encoder outputs, which is used along with the input token to generate the next token in the sequence.
 
+
+![The picture presents a schematic represantation of a Bahdanau Attention Transformer](https://github.com/biro98/Chatbot/blob/main/Attention.jpeg)
 3) Training_Utilities.ipynb:
 Importing Modules and Scripts: It imports necessary PyTorch modules and two other scripts (Dataset_and_preprocessing.ipynb and model.ipynb) which likely contain the dataset preparation and the model architecture.
 
