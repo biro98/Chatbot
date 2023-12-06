@@ -37,7 +37,7 @@ Attention in Decoder: The decoder's forward pass computes the attention weights 
 
 The picture presents a schematic represantation of a Bahdanau Attention Transformer:
 
-![The picture presents a schematic represantation of a Bahdanau Attention Transformer](https://github.com/biro98/Chatbot/blob/main/Attention.jpeg)
+![The picture presents a schematic represantation of a Bahdanau Attention Transformer](https://github.com/biro98/Chatbot/blob/main/attentionb.jpeg)
 
 
 3) Training_Utilities.ipynb:
