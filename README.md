@@ -50,7 +50,8 @@ Training Loop: The script then runs a training loop for a specified number of ep
 
 Saving the Model: Finally, the trained state dictionaries of both the encoder and decoder are saved to files. This allows for the model to be reloaded later for further training or inference.
 
-4)Evaluate.ipynb:
+4) Evaluate.ipynb:
+   
 Module Imports and Data Loading: The script imports necessary libraries and loads previously trained model components (encoder and decoder) and data (train_data and val_data) using PyTorch and Pandas.
 
 Model Initialization: It initializes the encoder, attention layer, and decoder components of a sequence-to-sequence (seq2seq) model with an attention mechanism. These components are loaded with pre-trained weights.
